@@ -1,0 +1,3 @@
+SUITE in Practice: Piloting Risk-limiting Post-election Audits in Michigan
+
+Risk-limiting audits (RLAs) provide statistical evidence that election outcomes are correct by examining random samples of paper ballots. SUITE is an RLA procedure for stratified samples, where ballots are divided into distinct groups and samples are drawn independently from each group. Michigan used SUITE for its first pilot RLAs of the November 2018 election. I'll talk the Jupyter notebook tool I wrote to run the audit from start to finish and what I learned from observing a post-election audit.
